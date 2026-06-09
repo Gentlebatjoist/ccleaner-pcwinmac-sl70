@@ -1,4 +1,4 @@
-# 
+# Código abierto CCleaner plantillas para Mac OS | Instantáneo CCleaner plantillas para PC Windows. Con limpieza de papelera y indexación de archivos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
